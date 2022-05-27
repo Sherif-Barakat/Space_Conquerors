@@ -1,0 +1,30 @@
+Welcome to Space Conquerors!
+
+
+**The game is very simple, just shoot down the balls,
+score a lot of points and win!!
+
+**Balls of different colours award different points when shot;
+Blue-   1 point
+Red-    2 points
+Green-  3 points
+Orange- 4 points
+Yellow- 5 points
+Cyan-   6 points
+
+**Each time you hit a ball, you gain the points and it respawns
+at a random location but it gains more speed,becoming harder
+to hit.
+
+**You have 2 methods to gain bonus points;
+-Hit the ball whose colour and name appear on the top right
+ corner (2 times the score of the ball hit)
+-Hit the ball with weight equivalent to the equation that appears
+ in the bottom right corner (3 times the score of the ball hit)
+
+**You win by scoring above 150 points,but becareful; you only got
+ 30 bullets to shoot.
+
+**Your scores will be recorded in the "Highscores" section.
+
+		**Best of luck and enjoy the game!!!**
